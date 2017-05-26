@@ -1,5 +1,10 @@
 # Tanks
-Simple tanks game using LWJGL 2.9.3 and Slick2D
-Its first java gui project made by me.
+Simple tanks game using LWJGL 2.9.3 and Slick2D. It's my first java gui project.
 
-Jar file needs native liblary lwjgl64.dll in folder to work.
+Jar file needs native LWJGL 2.9.3 library (lwjgl64.dll file) in folder to work.
+
+![Welcome screen](http://i.imgur.com/kqPeH0O.jpg)
+
+![Game screen](http://i.imgur.com/BI8r7Sb.jpg)
+
+![Shooting](http://i.imgur.com/IxhLtdH.png)

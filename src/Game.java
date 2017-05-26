@@ -120,11 +120,11 @@ public class Game extends BasicGameState {
 			
 		
 			if (player == 1 && winner == null){
-				g.drawString("MOVE LEFT:" + movingLimit, 340, 30);
+				g.drawString("REMAINING MOVE:" + movingLimit, 320, 30);
 				g.setColor(Color.red);
 				g.drawString("RED ROUND", 355, 10);
 			}else if(player == 2 && winner == null){
-				g.drawString("MOVE LEFT:" + movingLimit, 340, 30);
+				g.drawString("REMAINING MOVE:" + movingLimit, 320, 30);
 				g.setColor(Color.blue);
 				g.drawString("BLUE ROUND", 355, 10);
 			}else{
